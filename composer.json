@@ -1,0 +1,14 @@
+{
+    "name": "vornica/test",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "dingzy",
+            "email": "735813250@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
